@@ -1,6 +1,6 @@
-#Data Engineering on AWS
+# Data Engineering on AWS
 
-##Summary:
+## Summary:
 
 1.Created a data pipeline in AWS Glue to extract Olympic data from GitHub and load it into Amazon S3, organizing the data into raw and transformed
 buckets for efficient processing and storage.
